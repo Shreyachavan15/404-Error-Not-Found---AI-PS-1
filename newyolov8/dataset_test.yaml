@@ -1,0 +1,3 @@
+test: dataset_yolo/test/images
+nc: 6
+names: ['HDPE','LDPE','Other','PET','PP','PS']
